@@ -1,0 +1,6 @@
+[submodule "projeto_final_front"]
+	path = projeto_final_front
+	url = https://github.com/Abacaxi-Remaster/projeto_final_front
+[submodule "ProjetoFinalBack"]
+	path = ProjetoFinalBack
+	url = https://github.com/Abacaxi-Remaster/ProjetoFinalBack
